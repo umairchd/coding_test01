@@ -13,16 +13,16 @@ bundle install
 
 Once you have `rspec` installed, you can run the tests using the following command:
 
-rspec increasing_decreasing_numbers_spec.rb
+rspec coding_test01_spec.rb
 
 
-This command will execute the RSpec spec file `increasing_decreasing_numbers_spec.rb` and display the test results in the console.
+This command will execute the RSpec spec file `coding_test01_spec.rb` and display the test results in the console.
 
 ## Example Usage
 
-You can also see an example usage of the `IncreasingDecreasingNumbers` class in the `example_usage.rb` file. To run the example usage, simply execute the following command:
+You can also see an example usage of the `IncreasingDecreasingNumbers` class in the `coding_test01.rb` file. To run the example usage, simply execute the following command:
 
-ruby example_usage.rb
+ruby coding_test01.rb
 
 This will run the script and display the output in the console.
 
